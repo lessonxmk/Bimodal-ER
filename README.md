@@ -1,6 +1,6 @@
 # Bimodal-ER
 
-This repository is based on Bert (https://github.com/google-research/bert)
+This repository is based on Bert (https://github.com/google-research/bert) and IEMOCAP data set (https://sail.usc.edu/iemocap/iemocap_publication.htm)
 
 1. Train a text classification model based on Bert:
   1) Download a pre-trained Bert model like 'uncased_L-12_H-768_A-12.zip'(Bert-Base)
