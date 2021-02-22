@@ -1,5 +1,6 @@
 The csv files are generate based on IEMOCAP data set with 5 different random seeds.
 
+
 Among them, 
 
 'train' means the train data set,
@@ -9,6 +10,7 @@ Among them,
 'test' means the test data set,
 
 'bitest' means the test data set for bimodal test.
+
 
 About 'bitest' files：
 
